@@ -23,6 +23,8 @@ The project consists of running SQL queries to extract relevant data from the ba
 - **Total Amount Received**: Tracking the total amount received from borrowers.
 - **Average Interest Rate**: Calculating the average interest rate across all loans.
 - **Average Debt-to-Income Ratio (DTI)**: Evaluating the average DTI for borrowers.
+  
+![mv](Summary.png)
 
 ### Dashboard 2: Overview
 - **Monthly Trends by Issue Date**: Line chart to identify seasonality and long-term trends.
@@ -32,8 +34,12 @@ The project consists of running SQL queries to extract relevant data from the ba
 - **Loan Purpose Breakdown**: Bar chart to provide a visual breakdown of loan metrics based on the stated purposes.
 - **Home Ownership Analysis**: Tree map to show how home ownership impacts loan applications.
 
+![mv](Overview.png)
+
 ### Dashboard 3: Details
 - **Comprehensive Details Dashboard**: Provides a consolidated view of all essential information within the loan data, offering a holistic snapshot of key loan-related metrics.
+
+![mv](Details.png)
 
 ## Visualizations in Tableau
 The results from the above SQL queries were used to create various visualizations in Tableau. The dashboards provide an intuitive view of the loan data, making it easier to derive insights.
