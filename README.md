@@ -1,4 +1,4 @@
-# Bank Loan Analysis Project
+# Strategic Loan Portfolio Optimization
 
 ## Overview
 This project involves analyzing bank loan data using SQL queries executed in SQL Server Management Studio (SSMS) and visualizing the results in Tableau. The primary goal is to derive insights from the loan data to improve decision-making processes.
